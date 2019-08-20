@@ -1,0 +1,7 @@
+@mixin makeBackground($col, $url) {
+    background:$col,
+        $url;
+    background-position: 50% 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
