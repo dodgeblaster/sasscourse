@@ -1,4 +1,4 @@
-# Intro
+# Intro to Sass
 
 
 ## High Level Overview of CSS and JS Trends
@@ -8,6 +8,9 @@
 
 
 ## What is Sass?
+[Site for Sass](https://sass-lang.com/)
+[Sassmeister Playground](https://www.sassmeister.com/)
+
 
 ## How to set Sass up
 The browser does not understand sass, so we need to convert or compile our sass into normal css. There are a number of ways to do this, the most popular being with NodeJS. If you would like a demo of how to handle your sass compiling with NodeJS, you can watch [this video here](https://www.youtube.com/watch?v=eRv8jUz2FgI).
