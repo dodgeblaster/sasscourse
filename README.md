@@ -21,9 +21,9 @@ Gary Jennings is a Fullstack Developer at ServerlessGuru. He graduated from SAIT
 ### Assigments
 
 -   Assignment #1 - Sass News Site
-    -   Worth TBA%
+    -   Worth 60%
 -   Assignment #2 - TBA
-    -   Worth TBA%
+    -   Worth 20%
 -   Attendamce
     -   Worth 20%
    
