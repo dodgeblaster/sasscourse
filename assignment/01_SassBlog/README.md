@@ -2,7 +2,7 @@
 
 | Assignment | Course | Worth | Description | Due Date         |
 | ---------- | ------ | ----- | ----------- | ---------------- |
-| #1         | Sass   | 60%   | Sass Blog   | TBA |
+| #1         | Sass   | 60%   | Sass Blog   | Feb 19, 2020 |
 
 ### How to submit this assignment
 
@@ -52,5 +52,6 @@ How this assignment will be marked
 6. Is the code free of any merge conflicts?
 7. Is the site hosted somewhere (AWS or Netlify or any other service you want to use)?
 8. Must have a working mobile menu built with Javascript (you can probably copy the code for this from your js assignment #2)
+9. The design must have a color scheme other than monochome
 
 If your group decides to only do the desktop mocks and fails to make it responsive, you can get a maximum of 80%. If your team also makes it responsive based on the mobile mocks, you will be able to get 100%.
