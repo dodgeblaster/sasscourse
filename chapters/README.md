@@ -57,3 +57,7 @@ In the root of your folder, make a `package.json` file with the following.
 
 ```
 
+Insure that when you setup your site on Netlify, that you specify the build command to be:
+```bash
+npm run build
+```
