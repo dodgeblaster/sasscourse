@@ -1,5 +1,5 @@
 - Follow along with [Sassmeister](https://www.sassmeister.com/) or in your own project notes.
-- Exercises will be done using [these files]()
+- Exercises will be done using [these files](resources/sassstartercode.zip)
 
 # 1. Variables
 
