@@ -2,7 +2,7 @@
 
 | Assignment | Course | Worth | Description | Due Date         |
 | ---------- | ------ | ----- | ----------- | ---------------- |
-| #3         | Sass   | 60%   | Sass Blog   | TBA |
+| #3         | Sass   | TBA%   | Sass Blog   | TBA |
 
 ### How to submit this assignment
 
