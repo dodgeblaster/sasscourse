@@ -1,8 +1,8 @@
-# Assignment #3 - Sass Blog
+# Assignment #1 - Sass News Site
 
 | Assignment | Course | Worth | Description | Due Date         |
 | ---------- | ------ | ----- | ----------- | ---------------- |
-| #3         | Sass   | 60%   | Sass Blog   | Sept 30 @ 5:00pm |
+| #3         | Sass   | 60%   | Sass Blog   | TBA |
 
 ### How to submit this assignment
 
@@ -19,8 +19,9 @@ Team Members:
 - John Smith 1
 - John Smith 2
 - John Smith 3
-- John Smith 4
 ```
+
+The mocks are wireframes. The design can changed. Feel free to choose a color scheme and add unsplash pictures. Placement of items have to stay the same based on the mocks. Example, on the writers page, having the picture to the left of the text in desktop width, but below the text in mobile width is intentional. 
 
 ### Suggested Strategy
 
