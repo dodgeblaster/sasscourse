@@ -4,7 +4,7 @@
 2. We dont want to check in our generated code (css) because we will get none meaningful merge conflicts all the time, so we want to ignore those files.
 3. Because our css will not be included in our gitub repo, we need a way for Netlify to build our css before it deploys.
 
-## 1. Enforcing Team Conventions with Prettier
+## 1. Enforce Team Conventions with Prettier
 - [Prettier VSCode Plugin](https://github.com/prettier/prettier-vscode)
 - [How to configure prettier in your project](https://prettier.io/docs/en/configuration.html)
 
@@ -18,7 +18,7 @@ Example Prettier Config
 ```
 
 
-## 2. Avoiding unmeaningful merge conflicts by git ignoring our generated css
+## 2. Avoid unmeaningful merge conflicts by git ignoring our generated css
 
 Make a `.gitignore` file which includes our css folder. This file could look like this:
 ```bash
