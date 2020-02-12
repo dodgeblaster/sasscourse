@@ -30,37 +30,3 @@ The Sass Live Compiler settings I use in VSCode:
     }
   ]
 ```
-
-
-## Javascript Formatting with Prettier
-- [Prettier VSCode Plugin](https://github.com/prettier/prettier-vscode)
-- [How to configure prettier in your project](https://prettier.io/docs/en/configuration.html)
-
-Example Prettier Config
-```json
-{
-    "tabWidth": 4,
-    "semi": true,
-    "singleQuote": true
-}
-```
-
-
-## Setup Sass Build script for Netlify
-In the root of your folder, make a `package.json` file with the following.
-```json
-{
-    "scripts": {
-        "build": "node-sass scss/app.scss css/app.css --output-style=compressed"
-    },
-    "devDependencies": {
-        "sass": "^1.25.0"
-    }
-}
-
-```
-
-Insure that when you setup your site on Netlify, that you specify the build command to be:
-```bash
-npm run build
-```
