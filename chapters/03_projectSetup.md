@@ -22,7 +22,7 @@ Example Prettier Config
 
 Make a `.gitignore` file which includes our css folder. This file could look like this:
 ```bash
-/scss
+/css
 ```
 
 ## 3. Setup Sass Build script for Netlify
