@@ -8,8 +8,8 @@
 
 
 ## What is Sass?
-[Site for Sass](https://sass-lang.com/)
-[Sassmeister Playground](https://www.sassmeister.com/)
+- [Site for Sass](https://sass-lang.com/)
+- [Sassmeister Playground](https://www.sassmeister.com/)
 
 
 ## How to set Sass up
