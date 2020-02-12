@@ -21,7 +21,7 @@ Team Members:
 - John Smith 3
 ```
 
-The mocks are wireframes. The design can changed. Feel free to choose a color scheme and add unsplash pictures. Placement of items have to stay the same based on the mocks. Example, on the writers page, having the picture to the left of the text in desktop width, but below the text in mobile width is intentional. 
+The mocks are wireframes. The designs can be changed. Feel free to choose a color scheme and add unsplash pictures. Placement of items have to stay the same based on the mocks. Example, on the writers page, having the picture to the left of the text in desktop width, but below the text in mobile width is intentional. 
 
 ### Suggested Strategy
 
