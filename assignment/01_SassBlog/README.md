@@ -9,7 +9,7 @@
 Send an email in the following format:
 
 - To: garyfromsait@gmail.com
-- Title: StudentName - GitSass - Assignment #3
+- Title: Sass Group Assignment
 - Body:
 
 ```
