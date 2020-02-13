@@ -29,12 +29,12 @@ Make a `.gitignore` file which includes our css folder. This file could look lik
 In the root of your folder, make a `package.json` file with the following.
 ```json
 {
-    "scripts": {
-        "build": "node-sass scss/app.scss css/app.css --output-style=compressed"
-    },
-    "devDependencies": {
-        "sass": "^1.25.0"
-    }
+  "scripts": {
+    "build": "node-sass scss/app.scss css/app.css --output-style=compressed"
+  },
+  "dependencies": {
+    "node-sass": "^4.13.1"
+  }
 }
 
 ```
