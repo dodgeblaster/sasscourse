@@ -1,5 +1,23 @@
-# Configuring Sass
+# Assignment #2 - Configuring Sass
 
+| Assignment | Course | Worth | Description | Due Date         |
+| ---------- | ------ | ----- | ----------- | ---------------- |
+| #2         | Sass   | 20%   | Update Blog   | Feb 19, 2020 |
+
+### How to submit this assignment
+
+Send an email in the following format:
+
+- To: garyfromsait@gmail.com
+- Title: Sass Group Assignment
+- Body:
+
+```
+Github URL: https://www.github.com/username/reponame
+Deployed URL: www.my-site.com
+```
+
+### Assignment Description
 The purpose of this assignment is to give you experience working with someone elses sass code. In this case, we are going to
 be working with the sass source code of the Bulma CSS Framework. This is an example of a very large sass project, one that
 many people use to kick start their Website Projects. Often developers will build their own css on top of this framework. What
