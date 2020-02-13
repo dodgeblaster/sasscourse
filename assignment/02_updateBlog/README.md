@@ -9,7 +9,7 @@
 Send an email in the following format:
 
 - To: garyfromsait@gmail.com
-- Title: Sass Group Assignment
+- Title: Sass Update Blog Assignment
 - Body:
 
 ```
